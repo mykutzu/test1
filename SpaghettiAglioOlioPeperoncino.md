@@ -8,4 +8,5 @@
 * aglio
 * olio
 * peperoncino
+* prezzemolo
 
