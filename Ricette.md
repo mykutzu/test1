@@ -8,3 +8,5 @@ Questo archivio contiene tutte le riette preferite di Cip
 * Risotto ai funghi
 * Pennette alla carbonara
 * Minestrone di verdure
+* Salmone al cartoccio
+
